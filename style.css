@@ -1,0 +1,32 @@
+.text3{
+    font-size: 250px;
+    color: black;
+}
+
+.kotak{
+    background-color: black;
+    color: rgb(245, 230, 179);
+}
+
+.produk{
+    border: 7px solid rgb(4, 128, 0);
+    padding: 100px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text3{
+    font-size: 250px;
+    color: black;
+}
+
+.kotak{
+    background-color: black;
+    color: rgb(245, 179, 225);
+}
+
+.produk{
+    border: 7px solid rgb(0, 0, 0);
+    padding: 100px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
