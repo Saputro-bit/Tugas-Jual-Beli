@@ -1,3 +1,53 @@
+/* Pertemuan tanggal 16 */
+*{
+    font-family: Arial;
+}
+
+table,th,td{
+    border:1px solid black;
+}
+
+.selection-border{
+    justify-content: center;
+    display: flex;
+}
+
+.selection-tengah{
+    justify-content: center;
+    border: 4px solid black;
+    display: grid;
+}
+@media(min-width: 922px){
+    .selection-atas{
+        color: pink;
+    }
+    .selection-border{
+        justify-content: stretch;
+        display: flex;
+    }
+    .selection-tengah{
+        justify-content: stretch;
+        display: flex;
+    }
+}
+
+@media(min-width: 768px){
+
+    .selection-atas{
+
+        color:turquoise;     
+
+    }
+}
+
+@media(max-width: 768px){
+    .selection-atas{
+        text-align: center;
+        color: greenyellow;
+    }    
+}
+
+/*Pertemuan Sebelumnya */
 .text3{
     font-size: 250px;
     color: black;
@@ -30,3 +80,4 @@
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
 }
+
