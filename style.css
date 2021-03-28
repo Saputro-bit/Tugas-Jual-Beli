@@ -81,3 +81,28 @@ table,th,td{
     font-family: 'Times New Roman', Times, serif;
 }
 
+/*Pertemuan tanggal 23*/
+.iniwaktu{
+    background: url(https://mmc.kalteng.go.id/files/berita/09012019091014_0.jpg);
+    background-size: cover;
+    padding: 200px 450px;
+    color: turquoise;
+    font-size: 100px;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #jam {
+    font-size: 4.5pc;
+  }
+  #tanggal {
+    font-size: 2pc;
+  }
+  #jam,
+  #tanggal {
+    text-shadow: 0 5px 5px #000000bb;
+    justify-content: center;
+  }
